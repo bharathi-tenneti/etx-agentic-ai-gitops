@@ -5,7 +5,7 @@ metadata:
   name: github-credentials-v1
 stringData:
   # Add your PAT here
-  token: <YOUR_GITHUB_PERSONAL_ACCESS_TOKEN>
+  token: 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
 ---
 apiVersion: apps/v1
 kind: Deployment
